@@ -1,0 +1,12 @@
+Concepts Needed
+==================
+1. TCP/IP and Socket Design
+2. concurrency and MultiThreading
+3. Mutex and Synchronization
+4. Data Structure: Hash tables, Vectors
+5. Parsing and RedisProtocol(RESP)
+6. File I/o  Presitance
+7. Signal Hnadling
+8. Command Parsing and Response Formatting
+9. Singleton Pattern
+10. Bitwise Operators
