@@ -5,6 +5,7 @@ Concepts Needed
     1.2 define the class in RedisServer.cpp
     1.3 make a shutdown and run (to make socket connection)
 2. concurrency and MultiThreading
+    2.1 Presitance Thread to dum data every 300 seconds
 3. Mutex and Synchronization
 4. Data Structure: Hash tables, Vectors
 5. Parsing and RedisProtocol(RESP)
